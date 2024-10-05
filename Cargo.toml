@@ -1,0 +1,11 @@
+[package]
+name = "stream_tips"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+solana-program = "1.7.11"
+borsh = "0.9.3"
+
+[lib]
+crate-type = ["cdylib"]
