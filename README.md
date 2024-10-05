@@ -1,8 +1,7 @@
 # Ezstream 🚀
 
 <p align="center">
-<img src="../logo192.png" alt="Ezstream" width="200" />
-</p>
+<img src="https://github.com/Stream-Tips/Ezstream_SC/blob/main/logo192.png?raw=true" alt="Ezstream Logo" width="200"/>
 
 ![Solana](https://img.shields.io/badge/Blockchain-Solana-green.svg)
 
